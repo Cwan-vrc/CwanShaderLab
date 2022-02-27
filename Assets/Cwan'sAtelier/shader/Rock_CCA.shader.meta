@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 467a0b786ec3cf04ab0a52b7dfec6cf5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _CCAmask: {fileID: 2800000, guid: 3d2a9ee9fc20a304ab55293e6099fa48, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

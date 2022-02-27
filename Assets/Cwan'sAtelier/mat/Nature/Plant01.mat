@@ -140,7 +140,7 @@ Material:
     - _01_WaveNoiseSpeed: 0.747
     - _02_NoiseBlend: 0.5872519
     - _02_WaveNoiseSpeed: 0.298
-    - _AOBlend: 0.846
+    - _AOBlend: 0.89
     - _Absorption: 0
     - _AllContrast: 0
     - _AllScrollx: 1
@@ -217,7 +217,7 @@ Material:
     - _UVSetforsecondarytextures: 1
     - _WaveIntensity: 0.88
     - _WaveNoiseScale: 1
-    - _WaveRandam: 1
+    - _WaveRandam: 0.896
     - _WaveSpeed: 0
     - _ZWrite: 1
     - __dirty: 0
@@ -230,7 +230,7 @@ Material:
     - aa_Amplitude: 0.08176412
     m_Colors:
     - _Anisotropy: {r: 1, g: 0, b: 0, a: 0}
-    - _Color: {r: 0.4551887, g: 0.5, b: 0.4604606, a: 0.45490196}
+    - _Color: {r: 0.5486828, g: 0.8490566, b: 0.57429606, a: 0.49019608}
     - _Color0: {r: 0.105698235, g: 0.41509426, b: 0.10377351, a: 0.3137255}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
     - _SheenColor: {r: 0, g: 0, b: 0, a: 1}
