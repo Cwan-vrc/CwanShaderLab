@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.momoma.momoma-tools": {
+      "version": "https://github.com/momoma-null/MomomaTools.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "8a7f4fc4179bbd54560669cb4716c73053e760ee"
+    },
     "com.unity.cinemachine": {
       "version": "2.8.0",
       "depth": 0,

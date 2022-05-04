@@ -140,7 +140,7 @@ Material:
     - _01_WaveNoiseSpeed: 0.747
     - _02_NoiseBlend: 0.5872519
     - _02_WaveNoiseSpeed: 0.298
-    - _AOBlend: 0.874
+    - _AOBlend: 1
     - _Absorption: 0
     - _AllContrast: 0
     - _AllScrollx: 1
