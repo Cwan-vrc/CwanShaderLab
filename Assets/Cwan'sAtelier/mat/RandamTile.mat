@@ -98,12 +98,12 @@ Material:
     - _Float2: 0.098
     - _Float3: 1
     - _Float4: 0.199
-    - _Float5: 1
+    - _Float5: 0.5
     - _Float6: 1
     - _GlossMapScale: 1
     - _Glossiness: 0.527
     - _GlossyReflections: 1
-    - _HueWidth: 0.88
+    - _HueWidth: 0.82
     - _Metallic: 0
     - _Mode: 0
     - _MultiBase: 1

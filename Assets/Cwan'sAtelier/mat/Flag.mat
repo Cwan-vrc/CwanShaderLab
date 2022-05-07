@@ -10,7 +10,7 @@ Material:
   m_Name: Flag
   m_Shader: {fileID: 4800000, guid: 58d15cf67379aaa4e9fed29c2430eb6f, type: 3}
   m_ShaderKeywords: 
-  m_LightmapFlags: 4
+  m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -63,8 +63,12 @@ Material:
         m_Texture: {fileID: 2800000, guid: be11a257c49ed534f8f087faa6fe0299, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 18f0cadbedd1b0843bbe9fbaee69f854, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _TextureSample1:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: e272d142588b4604da3e4385acb66e7f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -76,9 +80,9 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _Float2: 2.03
+    - _Float2: 11.46
     - _Float4: 1
-    - _Float5: -0.11
+    - _Float5: 2.01
     - _Float6: 1.75
     - _GlossMapScale: 1
     - _Glossiness: 0.527
@@ -94,11 +98,11 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     - __dirty: 0
-    - _bityosei: 0.45
-    - _intensity: 0.1
+    - _bityosei: 0.1
+    - _intensity: -0.29
     - _move2: 0.4
-    - _moveblend: 0.3
-    - _position: 1.72
+    - _moveblend: 0.33
+    - _position: 0.76
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color1: {r: 1, g: 1, b: 1, a: 0}
