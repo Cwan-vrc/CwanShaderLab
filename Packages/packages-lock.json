@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.momoma.momoma-shaders": {
+      "version": "https://github.com/momoma-null/MomomaShaders.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ea83ccae0028af37c1c1d7cbab4377dde7c022d5"
+    },
     "com.momoma.momoma-tools": {
       "version": "https://github.com/momoma-null/MomomaTools.git",
       "depth": 0,

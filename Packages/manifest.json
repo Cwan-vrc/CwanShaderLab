@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.momoma.momoma-shaders": "https://github.com/momoma-null/MomomaShaders.git",
     "com.momoma.momoma-tools": "https://github.com/momoma-null/MomomaTools.git",
     "com.unity.cinemachine": "2.8.0",
     "com.unity.collab-proxy": "1.10.2",
